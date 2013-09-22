@@ -1,4 +1,11 @@
 
-h1 { color:blue; font-size: 70px;text-align: right;}
-p{color:red;font-size: 16px;text-align: center;} 
-#primero{color: #E42828}
+h1 { 
+	color:blue;
+	 font-size: 70px;
+	 text-align: right;}
+/*p{color:red;font-size: 16px;text-align: center;} */
+p{
+   color: #926060;
+  font-size: 32px;}
+#primero{ color: #E42828;}
+#primero p{color: #DF8C0E;}
